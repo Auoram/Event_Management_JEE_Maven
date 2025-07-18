@@ -1,0 +1,14 @@
+com\last\dao\UserDao.class
+com\last\lastjeeproject\JakartaRestConfiguration.class
+com\last\servlets\EventServlet.class
+com\last\lastjeeproject\resources\JakartaEE10Resource.class
+com\last\entities\User.class
+com\last\servlets\DashboardServlet.class
+com\last\servlets\EventPdfServlet.class
+com\last\servlets\AuthServlet.class
+com\last\dao\DBConnection.class
+com\last\entities\Registration.class
+com\last\entities\Event.class
+com\last\dao\EventDao.class
+com\last\dao\RegistrationDao.class
+com\last\servlets\RegistrationServlet.class
